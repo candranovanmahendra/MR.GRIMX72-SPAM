@@ -6,15 +6,15 @@ blu="\033[1;96m"
 sleep 1
 echo "${blu} [!] Loading . . ."
 echo "${blu} Orang sabar di sayang tuhan:)"
-sleep 3
+sleep 8
 clear
 
 figlet Spam Call | lolcat
-echo "${red}════════════════════════════"
+echo "${red}══════════════════════════════════"
 echo "${blu} Author  : MR.GRIMX72"
 echo "${blu} Youtube: Belum Ada"
 echo "${blu} Version : Spam Version 1"
-echo "${red}════════════════════════════\n${blu}"
+echo "${red}══════════════════════════════════\n${blu}"
 sleep 1
 read -p "[+] Masukan No Target : " nomor
 link="https://id.jagreward.com/member/verify-mobile/$nomor"
